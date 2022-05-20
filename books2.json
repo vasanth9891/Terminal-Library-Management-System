@@ -1,0 +1,18 @@
+{
+   "C language": {
+      "author": "Tim Warren",
+      "publisher": "Ingram Publishing"
+   },
+   "C++ language": {
+      "author": "Nicolai M. Josuttis",
+      "publisher": "Wiley"
+   },
+   "JAVA": {
+      "author": "R. Nageswara Rao",
+      "publisher": "Dreamtech Press"
+   },
+   "Python": {
+      "author": "Martin C. Brown",
+      "publisher": "McGraw Hill Education"
+   }
+}
